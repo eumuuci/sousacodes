@@ -13,7 +13,7 @@ const nicolas = {
   code: [JavaScript,HTML,CSS,TypeScript],
   tools: [React Native,Styled-Components,Firebase,NodeJS,MongoDB,MongoRealm],
   experience: [Bots,Mobile Apps,UI,UX],
-  funfact: "i'm love japonese culture"
+  funfact: "i love japonese culture"
 }
 ```
 
