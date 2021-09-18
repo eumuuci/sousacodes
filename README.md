@@ -21,7 +21,7 @@ const nicolas = {
   <a href="https://www.instagram.com/nicolascodes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/sousacodes/sousacodes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
