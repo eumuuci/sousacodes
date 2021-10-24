@@ -18,7 +18,7 @@ const nicolas = {
 ```
 <div  align="center"> 
   <a href="https://www.youtube.com/channel/UC2eFzw6gQUN0OpLXrR1ja0w" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/nicolascodes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/sousa.tsx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/sousacodes/sousacodes/blob/output/github-contribution-grid-snake.svg)
